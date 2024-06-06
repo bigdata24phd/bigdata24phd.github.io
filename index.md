@@ -22,22 +22,22 @@
 
 ## Application Submission
 
-        Applications must be submitted using the following submission portal by 11:59:59 pm (AoE) on the stated deadline date:
+        Applications must be submitted using the following submission portal:
         [https://wi-lab.com/cyberchair/2024/bigdata24/index.php](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=SP13&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php)
     
 ## Application Material
 
         Submitted papers should be 2 pages long plus a possible 1 page only for references, and adhere to the IEEE Conference Proceeding templates in a two-column format. Detailed guidelines for the templates can be accessed via this link: [IEEE Templates](https://www.ieee.org/conferences/publishing/templates.html). The submission should contain the complete list of authors and their affiliations (i.e., not be anonymous). The student must be the first author.
     
-        Once a paper has been submitted, no changes to the list of authors will be permitted. Additionally, each Ph.D. student is restricted to a single submission. Furthermore, we only consider submissions that present some preliminary results and on topics relevant to big data research.\
+        Once a paper has been submitted, no changes to the list of authors will be permitted. Additionally, each Ph.D. student is restricted to a single submission. Furthermore, we only consider submissions that present some preliminary results and on topics relevant to big data research.
     
 
 ### CV
-        Please include a CV limited to 1 page. List your background, research publications, and other experiences (education, employment, open-source projects, etc.). The list of publications must include venue, year, and author list.\
+        Please include a CV limited to 1 page. List your background, research publications, and other experiences (education, employment, open-source projects, etc.). The list of publications must include venue, year, and author list.
     
 
 ### Personal Statement
-        Please submit a 1-page personal statement. The personal statement should contain information about your research direction, potential thesis topics, your past achievements (publications, internships, teaching, etc.), and what advice/insights/ideas you hope to gain from the Ph.D. Forum. It is recommended to mention some of the questions that you might be interested in asking during the panel session at the Ph.D. Forum.\
+        Please submit a 1-page personal statement. The personal statement should contain information about your research direction, potential thesis topics, your past achievements (publications, internships, teaching, etc.), and what advice/insights/ideas you hope to gain from the Ph.D. Forum. It is recommended to mention some of the questions that you might be interested in asking during the panel session at the Ph.D. Forum.
     
 
 ## Review Criteria
