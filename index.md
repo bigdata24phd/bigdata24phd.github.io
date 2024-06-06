@@ -52,7 +52,7 @@ Applications will be reviewed according to the following criteria:
 
 Please refer to this page for more updates regarding the PhD Forum at IEEE BigData 2024. For additional questions, please email PhD Forum co-chairs
 
-- Feng Chen (mailto:Feng.Chen@UTDallas.edu)
-- Shuhan yuan (mailto:shuhan.yuan@usu.edu)
+- Feng Chen (Feng.Chen@UTDallas.edu)
+- Shuhan yuan (shuhan.yuan@usu.edu)
 
 
