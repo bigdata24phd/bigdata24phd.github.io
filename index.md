@@ -1,4 +1,4 @@
-# IEEE BigData 2024 PhD Forum
+
 ## Overview
 
 The IEEE BigData 2024 PhD Forum is an enriching platform designed for PhD students at all stages of their doctoral journey to showcase their dissertation plans and preliminary results to a diverse audience. This initiative fosters an environment where students can receive valuable feedback from senior researchers, engage in discussions with peers, and explore opportunities for potential collaborations.
