@@ -26,6 +26,8 @@ Applications must be submitted using the following submission portal: [https://w
     
 ## Application Material
 
+### Papers
+
 Submitted papers should be 2 pages long plus a possible 1 page only for references, and adhere to the IEEE Conference Proceeding templates in a two-column format. Detailed guidelines for the templates can be accessed via this link: [IEEE Templates](https://www.ieee.org/conferences/publishing/templates.html). The submission should contain the complete list of authors and their affiliations (i.e., not be anonymous). The student must be the first author.
     
 Once a paper has been submitted, no changes to the list of authors will be permitted. Additionally, each Ph.D. student is restricted to a single submission. Furthermore, we only consider submissions that present some preliminary results and on topics relevant to big data research.
