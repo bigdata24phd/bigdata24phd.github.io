@@ -10,8 +10,6 @@ Submission to the IEEE BigData PhD Forum is exclusively open to actively enrolle
     
 Accepted papers will be published in the conference proceedings. A selected group will be invited to present their work orally during the Forum, while others will have the opportunity to present through poster sessions.
     
-Moreover, attendees can apply for the IEEE BigData travel award, which entails volunteering at the conference in exchange for partial financial support towards their expenses. Registration fees will be waived for all travel awardees, and travel expenses may be partially covered depending on available funds and the number of recipients.
-    
 The Forum will also feature a panel discussion focusing on diverse career pathways and research trajectories spanning academia and industry. This session offers an avenue for Ph.D. students to pose questions and seek advice on various aspects of doctoral studies and future career prospects.
     
 Please note that physical presence is mandatory for participation in the PhD Forum; remote attendance is not allowed.
