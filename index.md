@@ -9,6 +9,8 @@ The IEEE BigData 2024 PhD Forum is an enriching platform designed for PhD studen
 Submission to the IEEE BigData PhD Forum is exclusively open to actively enrolled PhD students. Submissions encompass a wide spectrum of topics within big data research, reflecting the broad scope of the IEEE BigData 2024 Conference. This includes topics such as big data science and foundations, infrastructure, management, search and mining, learning and analytics, data ecosystems, foundation models, and applications across various domains like science, engineering, medicine, finance, business, and more.
     
 Accepted papers will be published in the conference proceedings. A selected group will be invited to present their work orally during the Forum, while others will have the opportunity to present through poster sessions.
+
+Moreover, attendees can apply for the IEEE BigData travel award. Registration fees will be waived for all travel awardees, and travel expenses may be partially covered depending on available funds and the number of recipients.
     
 The Forum will also feature a panel discussion focusing on diverse career pathways and research trajectories spanning academia and industry. This session offers an avenue for Ph.D. students to pose questions and seek advice on various aspects of doctoral studies and future career prospects.
     
