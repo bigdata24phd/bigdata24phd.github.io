@@ -45,6 +45,7 @@ Please include a CV limited to 1 page. List your background, research publicatio
 
 Please submit a 1-page personal statement. This document should outline your current research direction and potential thesis topics, summarize your academic achievements (such as publications, internships, and teaching experience), and explain what specific advice, insights, or ideas you hope to gain from the Ph.D. Forum. This personal statement helps us understand your research journey and allows us to tailor the forum experience to best support your growth as a doctoral student in the field of big data.  
 
+#### Submissions must be in a single PDF file.
 
 ## Additional Information
 
