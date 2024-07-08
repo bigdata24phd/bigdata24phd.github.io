@@ -4,23 +4,22 @@ layout: page
 
 
 
-The IEEE BigData 2024 PhD Forum is an enriching platform designed for PhD students at all stages of their doctoral journey to showcase their dissertation plans and preliminary results to a diverse audience. This initiative fosters an environment where students can receive valuable feedback from senior researchers, engage in discussions with peers, and explore opportunities for potential collaborations.
-    
-Submission to the IEEE BigData PhD Forum is exclusively open to actively enrolled PhD students. Submissions encompass a wide spectrum of topics within big data research, reflecting the broad scope of the IEEE BigData 2024 Conference. This includes topics such as big data science and foundations, infrastructure, management, search and mining, learning and analytics, data ecosystems, foundation models, and applications across various domains like science, engineering, medicine, finance, business, and more.
-    
-Accepted papers will be published in the conference proceedings. A selected group will be invited to present their work orally during the Forum, while others will have the opportunity to present through poster sessions.
+The IEEE Big Data 2024 Ph.D. Forum provides an exceptional opportunity for doctoral students to present their ongoing research and dissertation plans in the field of big data analytics and related technologies. This forum aims to create a supportive environment where students at various stages of their Ph.D. journey can share their ideas, methodologies, and preliminary findings with experts in the field. Participants will benefit from constructive feedback from experienced researchers, engage in thought-provoking discussions with their peers, and potentially discover avenues for future collaboration within the big data community.
 
-Moreover, attendees can apply for the IEEE BigData travel award. Registration fees will be waived for all travel awardees, and travel expenses may be partially covered depending on available funds and the number of recipients.
-    
-The Forum will also feature a panel discussion focusing on diverse career pathways and research trajectories spanning academia and industry. This session offers an avenue for Ph.D. students to pose questions and seek advice on various aspects of doctoral studies and future career prospects.
-    
-Please note that physical presence is mandatory for participation in the PhD Forum; remote attendance is not allowed.
+The forum is open exclusively to currently enrolled Ph.D. Students. Submissions encompass a wide spectrum of topics within big data research, reflecting the broad scope of the IEEE BigData 2024 Conference. This includes topics such as big data science and foundations, infrastructure, management, search and mining, learning and analytics, data ecosystems, foundation models, and applications across various domains like science, engineering, medicine, finance, business, and more. 
+
+Accepted papers will be published in the conference proceedings. Top submissions will be chosen for oral presentations during the Forum, while other accepted works will be showcased in interactive poster sessions. Moreover, attendees can apply for the IEEE BigData travel award. 
+
+In addition to research presentations, the Ph.D. Forum will include a panel discussion featuring experts from both academia and industry. This session will explore diverse career paths and research opportunities in the field of big data, allowing students to ask questions and gain insights into navigating their doctoral studies and future careers.
+
+Please note that in-person attendance is required for all participants in the Ph.D. Forum; remote participation is not available for this event.
+
     
 
 ## Important Dates
 
-- Submission deadline: TBD
-- Notification of acceptance: TBD
+- Submission deadline: Oct 30, 2024
+- Notification of acceptance: Nov 17, 2024
 - Forum date: TBD
 
 ## Application Submission
@@ -31,9 +30,9 @@ Applications must be submitted using the following submission portal: [https://w
 
 ### Papers
 
-Submitted papers should be 2 pages long plus a possible 1 page only for references, and adhere to the IEEE Conference Proceeding templates in a two-column format. Detailed guidelines for the templates can be accessed via this link: [IEEE Templates](https://www.ieee.org/conferences/publishing/templates.html). The submission should contain the complete list of authors and their affiliations (i.e., not be anonymous). The student must be the first author.
+Submitted papers should not exceed 2 pages for the main content, with an optional third page reserved exclusively for references. All submissions must adhere to the official IEEE Conference Proceedings template in a two-column format, accessible via [IEEE Templates]((https://www.ieee.org/conferences/publishing/templates.html)). Your submission should not be anonymized and should include a complete list of all authors and their affiliations, with the Ph.D. student as the primary author. Submissions should present preliminary findings in big data research that align with the broad spectrum of topics covered by the IEEE Big Data 2024 Conference.
     
-Once a paper has been submitted, no changes to the list of authors will be permitted. Additionally, each Ph.D. student is restricted to a single submission. Furthermore, we only consider submissions that present some preliminary results and on topics relevant to big data research.
+Each Ph.D. student is limited to a single submission to this Ph.D. Forum. Once a paper is submitted, no alterations to the author list will be permitted after the submission is due, so please ensure all contributors are properly credited before submission. We are specifically seeking works-in-progress that demonstrate innovative approaches or novel insights in the field of big data. Submissions that do not meet these criteria or fall outside the realm of big data research may not be considered for the forum. We strongly encourage all applicants to carefully review these guidelines to ensure their submissions meet our requirements.
     
 
 ### CV
@@ -43,15 +42,8 @@ Please include a CV limited to 1 page. List your background, research publicatio
 
 ### Personal Statement
 
-Please submit a 1-page personal statement. The personal statement should contain information about your research direction, potential thesis topics, your past achievements (publications, internships, teaching, etc.), and what advice/insights/ideas you hope to gain from the Ph.D. Forum. It is recommended to mention some of the questions that you might be interested in asking during the panel session at the Ph.D. Forum.    
+Please submit a 1-page personal statement. This document should outline your current research direction and potential thesis topics, summarize your academic achievements (such as publications, internships, and teaching experience), and explain what specific advice, insights, or ideas you hope to gain from the Ph.D. Forum. This personal statement helps us understand your research journey and allows us to tailor the forum experience to best support your growth as a doctoral student in the field of big data.  
 
-## Review Criteria
-Applications will be reviewed according to the following criteria:
-
-- Clarity and completeness of the submission packet;
-- Significance of the student's research contribution in the submitted research paper;
-- Utility of the Ph.D. Forum participation and mentorship in support of the student's continuing studies related to big data;
-- Assessment of how the student can contribute to others participating in the PhD Forum.
 
 ## Additional Information
 
