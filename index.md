@@ -51,6 +51,6 @@ Please submit a 1-page personal statement. This document should outline your cur
 Please refer to this page for more updates regarding the PhD Forum at IEEE BigData 2024. For additional questions, please email PhD Forum co-chairs
 
 - Feng Chen (Feng.Chen@UTDallas.edu)
-- Shuhan yuan (shuhan.yuan@usu.edu)
+- Shuhan Yuan (Shuhan.Yuan@usu.edu)
 
 
