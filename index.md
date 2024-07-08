@@ -19,7 +19,8 @@ Please note that in-person attendance is required for all participants in the Ph
 ## Important Dates
 
 - Submission deadline: Oct 30, 2024
-- Notification of acceptance: Nov 17, 2024
+- Notification of acceptance: Nov 10, 2024
+- Camera-ready of Accepted Papers: Nov 17, 2024
 - Forum date: TBD
 
 ## Application Submission
