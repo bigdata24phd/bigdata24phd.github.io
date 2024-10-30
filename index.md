@@ -18,7 +18,7 @@ Please note that in-person attendance is required for all participants in the Ph
 
 ## Important Dates
 
-- Submission deadline: ~~Oct 30, 2024~~ $\color{#FF0000}{\text{Nov 3, 2024}}$
+- Submission deadline: ~~Oct 30, 2024~~ $\color{#FF0000}{Nov~3,~2024}$
 - Notification of acceptance: Nov 10, 2024
 - Camera-ready of Accepted Papers: Nov 17, 2024
 - Forum date: TBD
