@@ -14,6 +14,19 @@ In addition to research presentations, the Ph.D. Forum will include a panel disc
 
 Please note that in-person attendance is required for all participants in the Ph.D. Forum; remote participation is not available for this event.
 
+## Program Schedule
+December 17, 2024
+
+| Time                 | Activity                                                                    |
+|----------------------|-----------------------------------------------------------------------------|
+| 10:00 AM -- 10:30 AM | Poster Presentations                                                        |
+| 10:30 AM -- 11:30 AM | Oral Presentations                                                          |
+| 11:30 AM -- 12:30 PM | Panel: Beyond the Dissertation: Insights into Academic and Industry Careers |
+| 12:30 PM -- 2:00 PM  | Lunch                                                                       |
+| 2:00 PM -- 4:00 PM   | Oral Presentations                                                          |
+| 4:00 PM -- 4:30 PM   | Poster Presentations                                                        |
+| 4:30 PM -- 5:30 PM   | Oral Presentations                                                          |
+
     
 
 ## Important Dates
