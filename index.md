@@ -50,8 +50,9 @@ December 17, 2024
 - Enhanced Deepfake Detection Leveraging Multi-Resolution Wavelet Convolutional Networks 
 - Towards a Supporting Framework for Neuro-Developmental Disorder: Considering Artificial Intelligence, Serious Games and Eye Tracking *
 
-* accepted for long presentation during the PhD Forum (18min + 2min Q&A)
-** accepted for short presentation during the PhD Forum (10min + 2min Q&A)
+\* accepted for long presentation during the PhD Forum (18min + 2min Q&A)
+
+\*\* accepted for short presentation during the PhD Forum (10min + 2min Q&A)
 
 All papers will be presented during the poster sessions
 
