@@ -31,28 +31,28 @@ December 17, 2024
 ## Accepted Papers
 
 - Knowledge Transfer Predictive Models for Power Outage Caused by Various Types of Extreme Weather Events *
-- Leveraging Big Data Technologies for Practical Radio Frequency Fingerprinting Applications **
-- BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection **
+- Leveraging Big Data Technologies for Practical Radio Frequency Fingerprinting Applications 
+- BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection 
 - Towards Trustworthy Graph Neural Networks and Their Applications in Recommender Systems *
-- Feature-Space Semantic Invariance: Enhanced OOD Detection for Open-Set Domain Generalization **
-- Enhancing Customer Behavior Prediction and Interpretability **
+- Feature-Space Semantic Invariance: Enhanced OOD Detection for Open-Set Domain Generalization 
+- Enhancing Customer Behavior Prediction and Interpretability 
 - Forensic Intelligence Derived from Crime Scene Evidence Using Text Embeddings 
-- Optimizing Deployment of Homomorphic Encryption and SQL using Reinforcement Learning **
-- Accounting for Cancer Patients with Severe Outcomes: An Anomaly Detection Perspective **
+- Optimizing Deployment of Homomorphic Encryption and SQL using Reinforcement Learning 
+- Accounting for Cancer Patients with Severe Outcomes: An Anomaly Detection Perspective 
 - Domain-Aware LLM Routing During Generation *
-- Robust Hate Speech Detection Without Predefined Spurious Words **
+- Robust Hate Speech Detection Without Predefined Spurious Words 
 - Time Series Causal Discovery Using a Hybrid Method *
 - A Methodology for Analysing Code Anomalies in Open-Source Software Using Big Data Analytics 
 - Responsible AI for Government Program Evaluation and Performance Audits
-- User Privacy in Skeleton-based Motion Data **
+- User Privacy in Skeleton-based Motion Data 
 - TIFG: Text-Informed Feature Generation with Large Language Models *
-- Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning **
+- Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning 
 - Enhanced Deepfake Detection Leveraging Multi-Resolution Wavelet Convolutional Networks 
 - Towards a Supporting Framework for Neuro-Developmental Disorder: Considering Artificial Intelligence, Serious Games and Eye Tracking *
 
-\* accepted for long presentation during the PhD Forum (18min + 2min Q&A)
+\* accepted for long presentations during the PhD Forum (18min + 2min Q&A)
 
-\*\* accepted for short presentation during the PhD Forum (10min + 2min Q&A)
+All the other papers are accepted for short presentations during the PhD Forum (10min + 2min Q&A)
 
 All papers will be presented during the poster sessions
 
