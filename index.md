@@ -26,6 +26,7 @@ December 17, 2024
 | 2:00 PM -- 4:00 PM   | Oral Presentations                                                          |
 | 4:00 PM -- 4:30 PM   | Poster Presentations                                                        |
 | 4:30 PM -- 5:30 PM   | Oral Presentations                                                          |
+| 5:30 PM -- 5:35 PM   | Award Announcement                                                      |
 
 
 ## Accepted Papers
