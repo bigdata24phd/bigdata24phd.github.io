@@ -48,7 +48,8 @@ December 17, 2024
 - User Privacy in Skeleton-based Motion Data 
 - TIFG: Text-Informed Feature Generation with Large Language Models *
 - Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning 
-- Enhanced Deepfake Detection Leveraging Multi-Resolution Wavelet Convolutional Networks 
+- Enhanced Deepfake Detection Leveraging Multi-Resolution Wavelet Convolutional Networks
+- Global and Local Structure Learning for Sparse Tensor Completion
 - Towards a Supporting Framework for Neuro-Developmental Disorder: Considering Artificial Intelligence, Serious Games and Eye Tracking *
 
 \* accepted for long presentations during the PhD Forum (18min + 2min Q&A)
