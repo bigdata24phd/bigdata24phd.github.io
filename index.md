@@ -31,26 +31,46 @@ December 17, 2024
 
 ## Accepted Papers
 
-- Knowledge Transfer Predictive Models for Power Outage Caused by Various Types of Extreme Weather Events *
-- Leveraging Big Data Technologies for Practical Radio Frequency Fingerprinting Applications 
-- BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection 
-- Towards Trustworthy Graph Neural Networks and Their Applications in Recommender Systems *
-- Feature-Space Semantic Invariance: Enhanced OOD Detection for Open-Set Domain Generalization 
-- Enhancing Customer Behavior Prediction and Interpretability 
+- Knowledge Transfer Predictive Models for Power Outage Caused by Various Types of Extreme Weather Events * [Video](https://video.computer.org/BigData24/4F4Uao3lypxWTNl8ZFr1pi-SP13201-Lee.mp4.html)
+    - Jangjae Lee and Stephanie Paal (Texas A&M University, USA)
+- Leveraging Big Data Technologies for Practical Radio Frequency Fingerprinting Applications
+    - Stefan Kunze and Wolfgang Dorner (Institute for Applied Informatics Deggendorf Institute of Technology, Germany)     
+- BadSAD: Clean-Label Backdoor Attacks against Deep Semi-Supervised Anomaly Detection
+    - He Cheng (Utah State University, USA)
+- Towards Trustworthy Graph Neural Networks and Their Applications in Recommender Systems * [Video](https://video.computer.org/BigData24/6XzkQXLD7zvQwhXJB8TMbZ-BigData'24%20Towards%20Trustworthy%20Graph%20Neural%20Networks.mp4.html)
+    - Longfeng Wu (Virginia Tech, USA)
+- Feature-Space Semantic Invariance: Enhanced OOD Detection for Open-Set Domain Generalization
+    - Haoliang Wang (The University of Texas at Dallas, USA), Chen Zhao, and Feng Chen 
+- Enhancing Customer Behavior Prediction and Interpretability [Video](https://video.computer.org/BigData24/703pBwIpnAIa4g8yXGFuIw-SP13209-WANG.mp4.html)
+    - Yu-Chung Wang, Lars Arne Jordanger, and Jerry Chun-Wei Lin (Western Norway University of Applied Sciences, Norway)
 - Forensic Intelligence Derived from Crime Scene Evidence Using Text Embeddings [Video](https://video.computer.org/BigData24/3ONd5LiVEsgq9dvTzI010E-BigData%20presentation.mp4.html)
-- Optimizing Deployment of Homomorphic Encryption and SQL using Reinforcement Learning 
-- Accounting for Cancer Patients with Severe Outcomes: An Anomaly Detection Perspective 
+    - Vinicius Lima and Umit Karabiyik (Purdue University, USA) 
+- Optimizing Deployment of Homomorphic Encryption and SQL using Reinforcement Learning [Video](https://video.computer.org/BigData24/7GW4EHJbXw42mg5VQlMOCv-Marinelli_Presentation.mp4.html)
+    - Ryan Marinelli (University of Oslo, Department of Informatics, Norway), Avald Sommervoll, and Laszlo Erdodi
+- Accounting for Cancer Patients with Severe Outcomes: An Anomaly Detection Perspective [Video](https://video.computer.org/BigData24/4bPPxi9DrlydKDp5Z6UgaF-SP13212_Yan.mp4.html)
+    - Yang Yan (Southern Illinois University, USA), Christopher Lominska, Gregory Gan, Hao Gao, and Zhong Chen
 - Domain-Aware LLM Routing During Generation *
-- Robust Hate Speech Detection Without Predefined Spurious Words 
+    - Josef Pichlmeier (Ludwig Maximilians University, Germany), Philipp Ross, and Andre Luckow
+- Robust Hate Speech Detection Without Predefined Spurious Words
+    - Xingyi Zhao (Utah State University, USA)
 - Time Series Causal Discovery Using a Hybrid Method *
+    - Saima Absar and Lu Zhang (University of Arkansas, USA)
 - A Methodology for Analysing Code Anomalies in Open-Source Software Using Big Data Analytics [Video](https://video.computer.org/BigData24/5q3t0eImIUkzEh3E3sQ6Vm-Big%20Data%20Presentation.mp4.html)
+    - Jimmy Campbell (University of Portsmouth, UK)
 - Responsible AI for Government Program Evaluation and Performance Audits [Video](https://video.computer.org/BigData24/6sEKQj7ILpaTrCy2gLLARN-SP13219-fonner.mp4.html)
-- User Privacy in Skeleton-based Motion Data 
+    - Daniel Fonner and Frank Coyle (Southern Methodist University, USA)
+- User Privacy in Skeleton-based Motion Data [Video](https://video.computer.org/BigData24/4t34N9rOreEQlwCuW8xSQH-SP13220-Carr.mp4.html)
+    - Thomas Carr and Depeng Xu (University of North Carolina at Charlotte, USA)
 - TIFG: Text-Informed Feature Generation with Large Language Models *
-- Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning 
+    - Xinhao Zhang and Kunpeng Liu (Portland State University, USA)
+- Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning
+    - Jinghan Zhang and Kunpeng Liu (Portland State University, USA)
 - Enhanced Deepfake Detection Leveraging Multi-Resolution Wavelet Convolutional Networks [Video](https://video.computer.org/BigData24/64dfObByw31T1xPt0yAkLE-SP13224-sadhya.mp4.html)
+    - Supriyo Sadhya and Xiaojun Qi (Utah State University, USA)
 - Global and Local Structure Learning for Sparse Tensor Completion
-- Towards a Supporting Framework for Neuro-Developmental Disorder: Considering Artificial Intelligence, Serious Games and Eye Tracking *
+    - Dawon Ahn and Evangelos Papalexakis (University of California, Riverside, USA)
+- Towards a Supporting Framework for Neuro-Developmental Disorder: Considering Artificial Intelligence, Serious Games and Eye Tracking * [Video](https://video.computer.org/BigData24/1XrKijM9U0GQ97uCy28Fyz-Towrds%20NDD%20support-video.mp4.html)
+    - Abdul Rehman (Western Norway University of Applied Sciences, Norway), Ilona Heldal, Diana Stilwell, and Jerry Chun-Wei Lin
 
 \* accepted for long presentations during the PhD Forum (18min + 2min Q&A)
 
