@@ -37,18 +37,18 @@ December 17, 2024
 - Towards Trustworthy Graph Neural Networks and Their Applications in Recommender Systems *
 - Feature-Space Semantic Invariance: Enhanced OOD Detection for Open-Set Domain Generalization 
 - Enhancing Customer Behavior Prediction and Interpretability 
-- Forensic Intelligence Derived from Crime Scene Evidence Using Text Embeddings 
+- Forensic Intelligence Derived from Crime Scene Evidence Using Text Embeddings [Video](https://video.computer.org/BigData24/3ONd5LiVEsgq9dvTzI010E-BigData%20presentation.mp4.html)
 - Optimizing Deployment of Homomorphic Encryption and SQL using Reinforcement Learning 
 - Accounting for Cancer Patients with Severe Outcomes: An Anomaly Detection Perspective 
 - Domain-Aware LLM Routing During Generation *
 - Robust Hate Speech Detection Without Predefined Spurious Words 
 - Time Series Causal Discovery Using a Hybrid Method *
-- A Methodology for Analysing Code Anomalies in Open-Source Software Using Big Data Analytics 
-- Responsible AI for Government Program Evaluation and Performance Audits
+- A Methodology for Analysing Code Anomalies in Open-Source Software Using Big Data Analytics [Video](https://video.computer.org/BigData24/5q3t0eImIUkzEh3E3sQ6Vm-Big%20Data%20Presentation.mp4.html)
+- Responsible AI for Government Program Evaluation and Performance Audits [Video](https://video.computer.org/BigData24/6sEKQj7ILpaTrCy2gLLARN-SP13219-fonner.mp4.html)
 - User Privacy in Skeleton-based Motion Data 
 - TIFG: Text-Informed Feature Generation with Large Language Models *
 - Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning 
-- Enhanced Deepfake Detection Leveraging Multi-Resolution Wavelet Convolutional Networks
+- Enhanced Deepfake Detection Leveraging Multi-Resolution Wavelet Convolutional Networks [Video](https://video.computer.org/BigData24/64dfObByw31T1xPt0yAkLE-SP13224-sadhya.mp4.html)
 - Global and Local Structure Learning for Sparse Tensor Completion
 - Towards a Supporting Framework for Neuro-Developmental Disorder: Considering Artificial Intelligence, Serious Games and Eye Tracking *
 
