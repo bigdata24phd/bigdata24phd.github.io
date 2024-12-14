@@ -28,6 +28,25 @@ December 17, 2024
 | 4:30 PM -- 5:30 PM   | Oral Presentations                                                          |
 | 5:30 PM -- 5:35 PM   | Award Announcement                                                      |
 
+## PhD Forum Panel -- Beyond the Dissertation: Insights into Academic and Industry Careers
+
+### Bios of Panelists
+
+- **Dr. Cornelia Caragea**
+  
+Dr. Cornelia Caragea is a Professor of Computer Science and the Director of the Information Retrieval Research Laboratory at the University of Illinois Chicago (UIC). Caragea currently serves as Program Director at the National Science Foundation. Her research interests are in natural language processing, artificial intelligence, deep learning, machine learning, and information retrieval. Caragea's work has been recognized with several National Science Foundation (NSF) research awards, including the prestigious NSF CAREER award. She has published many research papers in top venues such as ACL, EMNLP, NAACL, ICML, AAAI, and IJCAI and was a program committee member for many such conferences. She reviewed many journals, including Nature, ACM TIST, JAIR, and TACL, served on many NSF review panels, and organized several workshops on scholarly big data. In 2020-21, she received the College of Engineering (COE) Research Award, which is awarded to faculty in the College of Engineering at UIC for excellent research contributions. Caragea was included on an Elsevier list of the top 2% of scientists in their fields for her single-year impact in 2020.
+
+- **Dr. Huzefa Rangwala**
+  
+At AWS AI/ML, Dr. Huzefa Rangawala spearheads a team of scientists and engineers, revolutionizing AWS services through advancements in graph machine learning, reinforcement learning, AutoML, low-code/no-code generative AI, and personalized AI solutions. His passion extends to transforming analytical sciences with the power of generative AI. He is a Professor of Computer Science and the Lawrence Cranberg Faculty Fellow at George Mason University, where he also served as interim Chair from 2019-2020. He is the recipient of the National Science Foundation (NSF) Career Award, the 2014 University-wide Teaching Award, Emerging Researcher/Creator/Scholar Award, the 2018 Undergraduate Research Mentor Award. In 2022, Dr. Huzefa co-chaired the ACM SIGKDD conference in Washington, DC. His research interests include structured learning, federated learning, and ML fairness inter-twinned with applying ML to problems in biology, biomedical engineering, and learning sciences.
+  
+- **Dr. Kesheng (John) Wu**
+  
+Dr. Kesheng (John) Wu leads multiple R&D endeavors focused on advanced technologies and testbeds at the Scientific Networking Division of Lawrence Berkeley National Laboratory. These projects aim to expedite data transfer among DOE user facilities, implement in-network storage and computational resources for intricate scientific workflows, and explore algorithms, strategies, and practices to enhance the efficiency of network operations. Additionally, Dr. Wu's team is tasked with developing and managing networking testbeds, providing the broader research community with platforms to explore future generations of networking technologies and optimize their utilization. These testbeds encompass conventional optical networking alongside cutting-edge quantum communication capabilities.
+  
+- **Dr. Jianping Zhang**
+  
+Dr. Jianping Zhang earned his Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign in 1990. He is currently a Senior Managing Director at Ankura, based in Washington, DC, where he applies over 25 years of leadership and technical expertise to address complex data analytics challenges. His work encompasses artificial intelligence, machine learning, predictive analytics, big data, and text analytics, with a proven track record of developing advanced analytics solutions across industries such as finance, legal, and high-tech. Dr. Zhang's impactful contributions include two U.S. patents and over 100 peer-reviewed technical publications. Prior to Ankura, Dr. Zhang held prominent roles in both academia and industry. He served as the principal AI scientist at the MITRE Corporation, spearheading R&D in machine learning and data mining for U.S. government applications. At AOL, he was the chief architect, leading the development of innovative platforms for web content categorization and user profiling. Earlier in his career, he was a lead AI scientist at MITRE, focusing on data mining projects for government agencies, and spent nearly a decade as an assistant and associate professor at Utah State University, mentoring future innovators.
 
 ## Accepted Papers
 
